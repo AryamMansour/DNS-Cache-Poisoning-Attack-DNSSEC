@@ -1,7 +1,7 @@
 # DNS-Cache-Poisoning-Attack-DNSSEC
 Simulation of a DNS cache poisoning attack and DNSSEC as a countermeasure. Includes a full attack environment (client, resolver, root server, and attacker) with DNSSEC implementation that successfully rejects forged responses using cryptographic signatures.
 
-All codes are written in python and tested on Kali Linux and Ubuntu VMs.
+All codes are written in python and tested on Kali Linux and Ubuntu VMs by Aryam Mansour, Rand I. H. Abualqumssan, Razan Hamchou and Rawdha Abdelaziz as a part of Computer and network security course in University of Sharjah.
 
 
 To run DNS Cache Poisoning Attack:
